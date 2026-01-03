@@ -1,0 +1,4 @@
+# BLINKIT ANALYSIS PROJECT 
+THIS IS A PYTHON PROJECT 
+TOOLS USED:
+         PYTHON(Pandas , NumPy), Matplotlib,seaborn
